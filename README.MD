@@ -1,10 +1,10 @@
-# DaisyUI Component Generator
+# Bootstrap Component Generator
 
-A FastAPI application that generates HTML components using DaisyUI classes based on user input.
+A FastAPI application that generates HTML components using Bootstrap classes based on user input.
 
 ## Features
 
-* Generates HTML components using DaisyUI classes
+* Generates HTML components using Bootstrap 5 classes
 * Provides a brief explanation for each generated component
 * Supports user input for custom component generation
 * Utilizes FastAPI for building the backend API
@@ -47,3 +47,16 @@ Note: If you're using VS Code, you can also run the application using the debugg
 - Press F5 to start debugging
 - Select "FastAPI" from the configuration dropdown
 - The application will start, and you can access it in your browser
+
+## Bootstrap Version
+
+This project uses Bootstrap 5.3.3. For documentation and examples, visit the [official Bootstrap website](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
+
+## Customization
+
+To customize Bootstrap's appearance, you can:
+1. Use Bootstrap's built-in utility classes
+2. Override Bootstrap's default Sass variables
+3. Use Bootstrap's mixins to generate your own variants
+
+For more information on customizing Bootstrap, refer to the [official customization guide](https://getbootstrap.com/docs/5.3/customize/overview/).
