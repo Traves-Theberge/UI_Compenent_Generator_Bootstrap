@@ -1,0 +1,7 @@
+openai==1.40.0
+termcolor
+fastapi
+uvicorn
+python-multipart
+jinja2
+python-dotenv
